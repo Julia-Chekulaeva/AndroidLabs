@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">lab3 Task 2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="to_second">To Second</string>
+    <string name="first_activity">First Activity</string>
+    <string name="to_first">To First</string>
+    <string name="to_third">To Third</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="this_is_about_activity">This is\nAbout Activity</string>
+    <string name="activity_about">Activity About</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab1/src/main/res/layout/activity_1_1.xml" value="0.25" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab1/src/main/res/layout/activity_1_2.xml" value="0.25" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab1/src/main/res/layout/activity_1_2_alt.xml" value="0.25" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab1/src/main/res/layout/activity_2_1.xml" value="0.25" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab1/src/main/res/layout/activity_2_2.xml" value="0.25" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab1/src/main/res/layout/activity_3_1.xml" value="0.25" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab2continuewatch/src/main/res/layout-land/activity_main.xml" value="0.2275132275132275" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab2continuewatch/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab2continuewatch1/src/main/res/layout-land/activity_main.xml" value="0.2275132275132275" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab2continuewatch1/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab2continuewatch2/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab2roundscreen/src/main/res/drawable/ic_launcher_foreground.xml" value="0.121" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab2roundscreen/src/main/res/layout-round/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab2roundscreen/src/main/res/layout/activity_main.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab2roundscreen/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3project2/src/main/res/layout/activity_main.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.133" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/drawable/ic_launcher_background.xml" value="0.133" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/drawable/ic_menu_1.xml" value="0.133" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/drawable/ic_menu_slideshow.xml" value="0.133" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/drawable/side_nav_bar.xml" value="0.133" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/activity_1.xml" value="0.14" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/activity_2.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/activity_3.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/activity_num.xml" value="0.1" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/app_bar_main.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/content_main.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/fragment_gallery.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Julia/AndroidStudioProjects/AndroidLabs/lab3task2/src/main/res/menu/main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

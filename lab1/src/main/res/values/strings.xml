@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="push">Push</string>
+    <string name="hi_my_na_me_is_ju_lia">Hi,\nMy\nna-\nme\nis\nJu-\nlia</string>
+    <string name="wri_te_yo_ur_na_me_he_re">Wri-\nte\nyo-\nur\nna-\nme\nhe-\nre</string>
+    <string name="write_your_name_here">Write\nyour\nname\nhere</string>
+    <string name="my_name_is_julia">My\nname\nis\nJulia</string>
+    <string name="write_name">Write name</string>
+    <string name="my_name_is_julia_2">My name\nis Julia</string>
+    <string name="this_is_check_ed_text_view">This is\ncheck-\ned\nText\nView</string>
+    <string name="this_is_text_clock">This\nis\ntext\nclock</string>
+    <string name="some_mode">Some\nmode</string>
+    <string name="auto_com_plete_tv">Auto-\ncom-\nplete\nTV</string>
+</resources>

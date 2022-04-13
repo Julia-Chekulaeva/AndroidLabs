@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ConstraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_height="0dp"
+        android:layout_width="wrap_content"
+        app:layout_constraintHorizontal_bias="1"
+        app:layout_constraintVertical_weight="1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/editText"
+        android:gravity="center"
+        android:text="@string/my_name_is_julia"
+        android:textSize="@dimen/text_size" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_height="0dp"
+        android:layout_width="wrap_content"
+        app:layout_constraintVertical_weight="1"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/button"
+        android:autofillHints="Julia"
+        android:hint="@string/write_your_name_here"
+        android:textAlignment="center"
+        android:inputType="textPersonName"
+        android:textSize="@dimen/text_size"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        app:layout_constraintHorizontal_bias="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText"
+        app:layout_constraintVertical_weight="1"
+        android:autofillHints="Julia"
+        android:gravity="center"
+        android:textSize="@dimen/text_size"
+        android:hint="@string/push"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

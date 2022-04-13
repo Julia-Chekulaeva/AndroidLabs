@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lab2 Round Screen</string>
+    <string name="this_is_for_round_screen">This\nis for\nround\nscreen</string>
+    <string name="this_is_for_simple_screen">This\nis for\nsimple\nscreen</string>
+    <string name="circle">circle</string>
+</resources>
